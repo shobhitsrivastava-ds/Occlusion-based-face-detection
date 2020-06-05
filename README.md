@@ -7,7 +7,3 @@
 #### 3. Now tuning some required parameters in the face_vid .py file run it on the generated encoding.
                           $ python face_vid.py
 #### 4.You are good to go..
-### Checking the already trained model :
-#### Run the following commands :
-                          $ python face_vid.py
-                          
